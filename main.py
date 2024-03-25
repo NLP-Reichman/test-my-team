@@ -1,7 +1,7 @@
 
 
 def main():
-  i = 5
+  i = 7
   print("hello")
 
 main()
